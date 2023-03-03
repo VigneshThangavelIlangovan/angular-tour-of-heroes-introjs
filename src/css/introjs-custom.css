@@ -1,0 +1,13 @@
+.introjs-tooltip {
+    background-color: rgb(224, 114, 18);
+    color: #9f3605;
+    border: 2px solid #e76012;
+  }
+  
+  .introjs-helperLayer {
+    background-color: rgba(5, 5, 0, 0.5);
+  }
+
+  .introjs-tooltip.customTooltip {
+    background-color: #f79665;
+  }
